@@ -1,0 +1,23 @@
+img{
+    width: 400px;
+    height: 300px;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align:center;
+    background-color:yellow;
+    color: red;
+}
+body{
+    background-color: greenyellow;
+}
+
+img:hover{
+    border-radius:50px;
+    border-width:5px;
+    border-style: solid;
+    padding:5px;
+}
